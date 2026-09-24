@@ -1,0 +1,143 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "low-contrast",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:40:59.127Z",
+        "reason": "Claude: remaining pairs are light text over photos/dark overlays (intro, blessing, roots); detector reads the page cream behind them"
+      },
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:40:59.443Z",
+        "reason": "Claude: 3px gold edge is the theatre valance trim in the Bridgerton surprise-dance curtain, not a card accent"
+      },
+      {
+        "rule": "dark-glow",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:40:59.719Z",
+        "reason": "Claude: neon Hora Loca sign is literal subject matter; navy shadows are elevation under gilded frames"
+      },
+      {
+        "rule": "layout-transition",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:00.025Z",
+        "reason": "Claude: custom cursor ring grows on hover, tiny fixed element, same as the approved original site"
+      },
+      {
+        "rule": "hero-eyebrow-chip",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:00.354Z",
+        "reason": "Claude: Regency date/season line is part of the invitation typography"
+      },
+      {
+        "rule": "broken-image",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:00.646Z",
+        "reason": "Claude: lightbox img gets its src at open time"
+      },
+      {
+        "rule": "buried-raster",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:00.948Z",
+        "reason": "Claude: film grain overlay and the kiss frame that fades in after the intro video"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:01.244Z",
+        "reason": "Claude: full-bleed sections, content padded by inner layout"
+      },
+      {
+        "rule": "all-caps-body",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:01.533Z",
+        "reason": "Claude: short dateline and neon subtitle labels in Cinzel caps, period newspaper styling"
+      },
+      {
+        "rule": "clipped-overflow-container",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:01.832Z",
+        "reason": "Claude: body lock during the letter gate and section overflow for curtains/fireworks are intentional"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:02.143Z",
+        "reason": "Claude: ivory paper is the Bridgerton stationery theme requested by the user"
+      },
+      {
+        "rule": "marquee",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:02.432Z",
+        "reason": "Claude: photobooth print conveyor carried over from the approved original site"
+      },
+      {
+        "rule": "radial-halo",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:02.726Z",
+        "reason": "Claude: cameo shine is a one-off sparkle when the portrait appears"
+      },
+      {
+        "rule": "repeating-stripes-gradient",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:03.019Z",
+        "reason": "Claude: velvet curtain folds and gold fringe drawn with gradients"
+      },
+      {
+        "rule": "em-dash-overuse",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-09-24T22:41:03.308Z",
+        "reason": "Claude: period gossip-column voice; dashes are part of the copy style"
+      }
+    ]
+  }
+}
